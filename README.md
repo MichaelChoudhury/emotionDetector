@@ -25,7 +25,7 @@ The production deployment of the app: https://emotion-detector.onrender.com/
 # Emotion Detector
 <br>
 ## Prototype
-<br>
+
 ### About the application
 <br>
 ### The user have to upload a image of a person with having a smile, angry and sad emotion type then the model will predict its percentage for each emotion class. Our model consists of 3 classes happy, angry and sad.

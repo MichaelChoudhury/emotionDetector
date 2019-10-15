@@ -23,7 +23,7 @@ The production deployment of the app: https://emotion-detector.onrender.com/
 
 
 # Emotion Detector
-<br>
+
 ## Prototype
 
 ### About the application

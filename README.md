@@ -18,3 +18,6 @@ The production deployment of the app: https://emotion-detector.onrender.com/
 <br> <br> <br>
 
 # https://emotion-detector.onrender.com/
+
+![ ](emotionClassifierPNG.PNG)
+

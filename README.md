@@ -40,4 +40,4 @@ The production deployment of the app: https://emotion-detector.onrender.com/
 #### Frontend-Flask, HTML,CSS,Javascript.
 #### Deployment –Render
 #### IDE used-Google Colaboratory, Kaggle Kernels.
-#### Languages-Python, JavaScript.
+#### Languages-Python, JavaScript

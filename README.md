@@ -36,7 +36,7 @@ The production deployment of the app: https://emotion-detector.onrender.com/
 ### 4. Model used: For training we have use  convolution neural network and a pre-trained model vgg16 (also a Convets)which was already  trained on millions of images so its weights were used to train our model . 
 ### 5.Future scope: It can predict a better result than a psychologist can predict about a emotion of a human being. For that we can collect different images from the uploads and will be stored in a database so that further we can use it for training.  
 <br>
-##Technology Stack
+## Technology Stack
 #### Frontend-Flask, HTML,CSS,Javascript.
 #### Deployment –Render
 #### IDE used-Google Colaboratory, Kaggle Kernels.
